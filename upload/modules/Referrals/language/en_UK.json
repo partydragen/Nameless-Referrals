@@ -19,5 +19,7 @@
     "general/confirm_delete_referral": "Are you sure you want to delete this referral?",
     "general/referral_link": "Referral Link",
     "general/views": "Views",
-    "general/registrations": "Registrations"
+    "general/registrations": "Registrations",
+    "general/referral_user_registration": "Referral User Registration",
+    "general/user_registered_using_referral": "{{user}} registered using the {{code}} referral"
 }
